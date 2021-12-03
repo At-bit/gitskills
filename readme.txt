@@ -1,2 +1,2 @@
 Creating a new branch is quick and simple and stable.
-Python is a free software.
+Git is a free software and suit for me.
